@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Backups
+*.bak
+*.orig
+*.rej
+
+# Salidas generadas por la herramienta
+salida/
+*.png
+*.jpg
+*.jpeg
+*.webp
+index.html
+
+# Listas de entrada del usuario
+urls.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
